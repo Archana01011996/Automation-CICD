@@ -15,7 +15,7 @@ import org.testng.Assert;
 import static org.openqa.selenium.support.locators.RelativeLocator.*;
 
 public class StandAloneTest {
-
+//comments to check cicd working
 	public static void main(String[] args) throws InterruptedException {
        String Productname="ZARA COAT 3";
 		WebDriver driver = new ChromeDriver();
